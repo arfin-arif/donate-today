@@ -1,0 +1,214 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0%;
+}
+
+h1{
+    font-size: 45px;
+    color: #fff;
+}
+h2{
+    font-size: 35px;
+}
+small{
+    color: #fff;
+}
+p{
+    color: gray;
+}
+hr{
+    width: 540px;
+    text-align: center;
+    color: gray;
+}
+
+.donate-section{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.donate-div{
+    text-align: center;
+    padding: 5%;
+}
+.donate-button{
+    padding: 10px 15px;
+    background-color: #f01d47;
+    border: none;
+    border-radius: 5px;
+}
+.donate-button a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+.donate-div-middle{
+    text-align: center;
+}
+.donate-div-third{
+    display: flex;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.donate-amount{
+    background-color: #eee7e8;
+    border-radius: 3px;
+    text-align: center;
+    height: 48px;
+    width: 170px;
+    padding-top: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-left: 7px;
+}
+.donate-amount a{
+    text-decoration: none;
+    color: #706f6e;
+}
+.donate-amount-red{
+    background-color: #f1b9b9;
+    border: 2px solid crimson;
+    border-radius: 3px;
+    color: #ff2600;
+    text-align: center;
+    height: 48px;
+    width: 150px;
+    padding-top: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-left: 7px;
+}
+.donate-taka-red a{
+    text-decoration: none;
+    color: #f01d47;
+}
+.another-amount-div{
+    text-align: center;
+    color: gray;
+}
+.another-amount{
+    text-decoration: none;
+    color: gray;
+    border: none;
+    height: 25px;
+    width: 200px;
+    outline: none;
+}
+
+
+.donate-plan{
+    margin-top: 100px;
+    text-align: center;
+}
+.donate-plan-section{
+    display: flex;
+    padding-left: 5%;
+}
+
+.list-one{
+    text-align: left;
+    background-color: #9ff0e85b;
+    border-radius: 5px;
+    padding-left: 2%;
+    margin-right: 3%;
+    height: 350px;
+    margin-bottom: 100px; 
+}
+.list-food{
+    margin-top: 60px;
+}
+
+.plan-two{
+    text-align: left;
+    background-color: #f1b9b9;
+    border-radius: 5px;
+    padding-left: 2%;
+    margin-right: 3%;
+    height: 350px;
+    margin-bottom: 100px; 
+}
+.list-two{
+    margin-top: 60px;
+}
+
+.plan-three{
+    text-align: left;
+    background-color: #ecf19e;
+    border-radius: 5px;
+    padding-left: 2%;
+    margin-right: 3%;
+    height: 350px;
+    margin-bottom: 100px; 
+}
+.list-three{
+    margin-top: 60px;
+}
+.donate-plan-text{
+    color: #4e4e4d;
+}
+
+
+.updates-section{
+    text-align: center;
+}
+.updt-form{
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #d5efd6;
+    height: 140px;
+    width: 380px;
+    margin-left: 16%;
+    border-radius: 3;
+}
+.updates-section form{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.email-input{
+    margin-top: 60px;
+    height: 30px;
+    width: 250px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    background-color: #bbb8b5;
+    color: #3a3838;
+    font-weight: bold;
+}
+.subscribe-btn{
+    background-color: #e00833;
+    border-radius: 2px;
+    border: none;
+    font-weight: 600;
+    height: 32px;
+    width: 100px;
+    margin-left: -30px;
+}
+.subscribe-btn a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+
+footer{
+    background-color: black;
+    height: 140px;
+    text-align: center;
+    margin-top: 70px;
+}
+footer h3{
+   font-family: 'Times New Roman', Times, serif;
+}
+footer p{
+    font-size: 13px;
+    color: white;
+}
+.slogan{
+    color: #FF5959;
+}
